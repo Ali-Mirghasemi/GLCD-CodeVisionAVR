@@ -1,0 +1,9 @@
+*.h~
+*.hci
+*.c~
+*.cci
+*.o
+*.*~
+
+/Examples/*/Debug
+/Examples/*/Release

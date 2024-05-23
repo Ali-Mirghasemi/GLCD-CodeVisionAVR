@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "glcd.h": "c",
+        "font1.h": "c",
+        "font2.h": "c",
+        "persianfont1.h": "c",
+        "persianfont2.h": "c"
+    }
+}
